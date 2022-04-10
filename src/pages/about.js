@@ -26,7 +26,7 @@ const AboutPage = ({
           />
         <Row className="header">
           <Col sm={12} md="auto">
-            <Image roundedCircle src="/assets/portrait.png"></Image>
+            <Image roundedCircle src="/assets/AWTLG.png"></Image>
           </Col>
           <Col sm={12} md="auto" className="text">
             <h2>{site.siteMetadata.home.name}</h2>
