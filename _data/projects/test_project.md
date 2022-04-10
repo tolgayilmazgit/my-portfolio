@@ -1,7 +1,7 @@
 ---
 template: projects
 name: Test Project
-github: 'https://github.com/tolgayilmaz.k'
+github: 'https://github.com/tolgayilmazgit'
 demo: 'https://www.google.com/'
 tags: 
     - Google
