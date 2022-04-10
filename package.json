@@ -5,7 +5,7 @@
   "version": "1.6.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BrianRuizy/gatsby-minimal-portfolio/issues"
+    "url": "https://github.com/tolgayilmazgit/my-portfolio/issues"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
@@ -24,7 +24,7 @@
     "gatsby-transformer-remark": "^2.6.53",
     "netlify-cms-app": "^2.11.13",
     "node-sass": "^4.13.1",
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.27.0",
     "react": "^16.12.0",
     "react-bootstrap": "^1.5.0",
     "react-bottom-drawer": "^0.1.0",
@@ -36,14 +36,14 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/BrianRuizy/gatsby-minimal-portfolio/blob/master/README.md",
+  "homepage": "https://github.com/tolgayilmazgit/my-portfolio/blob/master/README.md",
   "keywords": [
     "gatsby",
     "netlify cms"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrianRuizy/gatsby-minimal-portfolio.git"
+    "url": "git+https://github.com/tolgayilmazgit/my-portfolio.git"
   },
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
